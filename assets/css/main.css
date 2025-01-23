@@ -1,0 +1,4 @@
+/* Nastavení jednotného fontu pro celý web */
+body {
+    font-family: 'Roboto', sans-serif;
+}
